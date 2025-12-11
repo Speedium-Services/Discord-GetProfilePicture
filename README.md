@@ -1,2 +1,2 @@
 # Discord-GetProfilePicture
-Gets an users discord profile picture from ID.
+Pretty self-explanatory. You only need the requests package.
